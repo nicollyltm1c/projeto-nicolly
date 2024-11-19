@@ -1,3 +1,10 @@
+
+![cenario-passo0 (1)](https://github.com/user-attachments/assets/9023ca76-4ef0-46e1-bcd1-693639f952c1)
+![cenario-passo11-cidade-perdida (1)](https://github.com/user-attachments/assets/e3a3fe9b-559b-4a05-9526-191f87528ec7)
+![cenario-passo4-voltar-casa (1)](https://github.com/user-attachments/assets/3fcb0fa6-21d7-4628-9e24-677ab587b2d7)
+
+
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
